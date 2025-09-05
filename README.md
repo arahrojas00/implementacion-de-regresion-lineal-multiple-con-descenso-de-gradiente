@@ -34,3 +34,32 @@ Parámetros principales:
 --epochs: número de iteraciones (ej. 12000)
 --seed: semilla para partición reproducible
 --test-size: fracción para test (ej. 0.3)
+
+## Salida esperada
+El script imprime en consola:
+==== Resultados ====
+ MAE_train: 8.205931
+ MSE_train: 96.927652
+RMSE_train: 9.845184
+  R2_train: 0.157904
+  MAE_test: 7.997730
+  MSE_test: 92.641123
+ RMSE_test: 9.625026
+   R2_test: 0.179825
+
+Ejemplos de predicciones (test):
+y_true=18.00800 | y_pred=32.30054
+y_true=33.71400 | y_pred=22.57472
+y_true=25.75200 | y_pred=33.14459
+y_true=27.57600 | y_pred=39.45165
+y_true=24.65700 | y_pred=37.79853
+y_true=18.18000 | y_pred=23.71207
+y_true=42.67300 | y_pred=25.87697
+y_true=19.62100 | y_pred=23.85219
+y_true=21.89300 | y_pred=32.14614
+y_true=26.86800 | y_pred=25.21116
+
+# Pesos (incluye intercepto): 19
+Intercepto (w0): 29.107933
+Primeros pesos: [ 2.616021  0.816812  0.172238 -0.920025  0.457747 -0.141629  0.478105
+  1.921424 -0.829099]
