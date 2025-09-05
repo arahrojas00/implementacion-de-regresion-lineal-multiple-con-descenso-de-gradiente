@@ -6,6 +6,12 @@ Regresión lineal múltiple desde cero (descenso de gradiente) en Python. Entren
 - [Salida esperada](#salida-esperada)
 - [Cómo funciona (resumen técnico)](#como-funciona-resumen-tecnico)
 
+## Dataset
+Parkinson’s Telemonitoring (UPDRS) — UCI Machine Learning Repository.
+Archivo principal: parkinsons_updrs.data
+URL de referencia:
+https://archive.ics.uci.edu/dataset/189/parkinsons+telemonitoring
+
 ## Uso
 Ejecutar desde la carpeta del proyecto:
 
