@@ -1,4 +1,4 @@
-# implementacion-de-regresion-lineal-multiple-con-descenso-de-gradiente
+# Implementacion de regresion lineal multiple con descenso de gradiente
 Regresión lineal múltiple desde cero (descenso de gradiente) en Python. Entrena y predice en UCI Parkinson’s UPDRS.
 ## Tabla de contenidos
 - [Dataset](#dataset)
@@ -40,4 +40,25 @@ Desempeño del modelo inicial:
 
 <img width="641" height="542" alt="Captura de pantalla 2025-09-14 a la(s) 9 48 24 p m" src="https://github.com/user-attachments/assets/bddcad1e-896f-4baa-85c5-20def71dd990" />
 
-# implementacion-de-regresion-lineal-multiple-con-descenso-de-gradiente-mejorado
+# Implementacion de regresion lineal multiple con descenso de gradiente mejorado
+
+## Salida esperada
+El script imprime en consola:
+
+
+## Resultados
+Desempeño del modelo mejorado (polinómico + L2):
+
+- **R² (train):** 0.205 
+- **R² (val):** 0.154
+- **R² (test):** 0.169 
+- **RMSE (train):** 9.577
+- **RMSE (val):** 9.623
+- **RMSE (test):** 9.851
+
+## Gráfica Predicciones vs Valores Reales (Test)
+<img width="641" height="544" alt="Captura de pantalla 2025-09-14 a la(s) 11 12 21 p m" src="https://github.com/user-attachments/assets/ea74f408-f654-4f77-92c9-4717fbcea66e" />
+
+## Gráfica Comparación de desempeño (R^2)
+<img width="643" height="544" alt="Captura de pantalla 2025-09-14 a la(s) 11 15 36 p m" src="https://github.com/user-attachments/assets/e13e07c7-419b-42b1-bdc0-82c52c8a04cb" />
+
