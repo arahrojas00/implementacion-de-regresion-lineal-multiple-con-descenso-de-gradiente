@@ -33,10 +33,6 @@ X_test_scaled  = scaler.transform(X_test)
 model = LinearRegression()
 model.fit(X_train_scaled, y_train)
 
-# (Opcional) Entrenar un modelo Ridge con regularización L2
-# model_ridge = Ridge(alpha=1.0)
-# model_ridge.fit(X_train_scaled, y_train)
-
 # Predicciones
 y_pred_train = model.predict(X_train_scaled)
 y_pred_val   = model.predict(X_val_scaled)
