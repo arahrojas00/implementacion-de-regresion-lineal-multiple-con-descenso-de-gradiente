@@ -57,8 +57,10 @@ Desempeño del modelo mejorado (polinómico + L2):
 - **RMSE (test):** 9.851
 
 ## Gráfica Predicciones vs Valores Reales (Test)
-<img width="641" height="544" alt="Captura de pantalla 2025-09-14 a la(s) 11 12 21 p m" src="https://github.com/user-attachments/assets/ea74f408-f654-4f77-92c9-4717fbcea66e" />
+<img width="642" height="546" alt="Captura de pantalla 2025-09-14 a la(s) 11 31 58 p m" src="https://github.com/user-attachments/assets/e0ae769b-7205-4bce-b46e-8ca6b5431e85" />
 
 ## Gráfica Comparación de desempeño (R^2)
 <img width="643" height="544" alt="Captura de pantalla 2025-09-14 a la(s) 11 15 36 p m" src="https://github.com/user-attachments/assets/e13e07c7-419b-42b1-bdc0-82c52c8a04cb" />
 
+## Gráfica Comparación de desempeño (RMSE)
+<img width="640" height="542" alt="Captura de pantalla 2025-09-14 a la(s) 11 33 02 p m" src="https://github.com/user-attachments/assets/f19ea225-b043-4777-90e1-2097e5c8c4df" />
