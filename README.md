@@ -40,3 +40,4 @@ Desempeño del modelo inicial:
 
 <img width="641" height="542" alt="Captura de pantalla 2025-09-14 a la(s) 9 48 24 p m" src="https://github.com/user-attachments/assets/bddcad1e-896f-4baa-85c5-20def71dd990" />
 
+# implementacion-de-regresion-lineal-multiple-con-descenso-de-gradiente-mejorado
